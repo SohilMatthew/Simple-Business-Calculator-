@@ -9,7 +9,7 @@
 
 | Daily Entry | Analytics | Settings |
 | :---: | :---: | :---: |
-| <img src="assets/Screenshots/tabi1bc.jpg" width="250" /> | <img src="assets/Screenshots/tab2bc.jpg" width="250" /> | <img src="assets/Screenshots/tab3bc.jpg" width="250" /> |
+| <img src="assets/screenshots/tabi1bc.jpg" width="250" /> | <img src="assets/screenshots/tab2bc.jpg" width="250" /> | <img src="assets/screenshots/tab3bc.jpg" width="250" /> |
 * Use Cases
   * Daily Ledger Management: Log daily inventory investments, gross sales, and itemized customer orders in seconds.
   * Business Performance Monitoring: Monitor daily profit margins and evaluate sales trends over time.
