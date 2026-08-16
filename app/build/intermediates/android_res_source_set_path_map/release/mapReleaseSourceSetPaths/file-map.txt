@@ -1,0 +1,7 @@
+com.example.businesscalculator.app-updated_navigation_xml-0 /home/SohilMatthew/Documents/Business Calculator/app/build/generated/updated_navigation_xml/release
+com.example.businesscalculator.app-packageReleaseResources-1 /home/SohilMatthew/Documents/Business Calculator/app/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.example.businesscalculator.app-packageReleaseResources-2 /home/SohilMatthew/Documents/Business Calculator/app/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.example.businesscalculator.app-release-3 /home/SohilMatthew/Documents/Business Calculator/app/build/intermediates/merged_res/release/mergeReleaseResources
+com.example.businesscalculator.app-main-4 /home/SohilMatthew/Documents/Business Calculator/app/src/main/res
+com.example.businesscalculator.app-release-5 /home/SohilMatthew/Documents/Business Calculator/app/src/release/res
+gradleHome-0 /home/SohilMatthew/.gradle
