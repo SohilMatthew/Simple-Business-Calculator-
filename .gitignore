@@ -8,4 +8,4 @@ app/build/
 local.properties
 
 # System files
-.DS_Store
+.DS_Store 
