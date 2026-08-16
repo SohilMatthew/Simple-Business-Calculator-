@@ -1,4 +1,4 @@
-* Business Calculator
+*Business Calculator*
 
 * About The App
   * Minimalist Android digital ledger designed specifically for local food shops and small businesses.
