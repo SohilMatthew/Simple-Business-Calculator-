@@ -1,0 +1,11 @@
+# Android / Gradle artifacts
+.gradle/
+build/
+app/build/
+
+# Local IDE configuration
+.idea/
+local.properties
+
+# System files
+.DS_Store
