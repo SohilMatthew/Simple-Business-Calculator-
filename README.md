@@ -6,13 +6,10 @@
   * Operates 100% offline, keeping sensitive financial records private on the local device.
 
 * App Preview (Screenshots)
-  * **Daily Entry Tab**
-    ![Daily Entry](Screenshots/tabi1bc.jpg)
-  * **Analytics & History Tab**
-    ![Analytics](Screenshots/tab2bc.jpg)
-  * **Settings & Catalog Tab**
-    ![Settings](Screenshots/tab3bc.jpg)
 
+| Daily Entry | Analytics | Settings |
+| :---: | :---: | :---: |
+| <img src="Screenshots/tabi1bc.jpg" width="250" /> | <img src="Screenshots/tab2bc.jpg" width="250" /> | <img src="Screenshots/tab3bc.jpg" width="250" /> |
 * Use Cases
   * Daily Ledger Management: Log daily inventory investments, gross sales, and itemized customer orders in seconds.
   * Business Performance Monitoring: Monitor daily profit margins and evaluate sales trends over time.
